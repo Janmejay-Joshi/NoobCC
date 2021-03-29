@@ -10,7 +10,7 @@
 
 ## Objective:
 * Learning React
-* Learning BootStrap
+* Learning BootStrap & react-bootstrap
 
 ## Goal:
 * Creating an Application
