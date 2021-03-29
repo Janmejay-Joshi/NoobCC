@@ -18,6 +18,7 @@
 
 ## Goal:
 * Creating an Application
+
     * No CSS Libraries
     * GUI
     * Animated 
