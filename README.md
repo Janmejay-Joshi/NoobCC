@@ -1,1 +1,1 @@
-# NoobCC
+# Noob Coders Club
