@@ -1,26 +1,24 @@
-# Week 03
+# Week 02
 
 ## Guidelines:
-* Everyone will work in a group of 2 managing a GitHub code base for the Project
 * No Plagarisim getting inspiration and expanding upon prebuilt code is acceptable.
 * Best Project will be Chosen by vote on basis of following :
 
     1. The Project itself
-    2. The Cleanliness of code
-    3. The presence/absence of bugs
+    2. Effectiveness and CURD functionality
+    3. Page Routing and New Pages
     4. README.md and presentation
 
 ## Objective:
-* Figma
-* Stylizing 
-* CSS Animations
-* SVG
+* Learning Express 
+* Learning Mongoose 
+* Learning MongoDb 
+* Learning React Router 
 
 ## Goal:
-* Creating an Application
+* Creating an Application backend
+    * MongoDb Atlas
+    * CRUD Actions
 
-    * No CSS Libraries
-    * GUI
-    * Animated 
-    * Responsiveness
-    * can't use previosly created bootstrap app
+* Updating Previous Frontend Project
+    * Adding Multipage functionality
