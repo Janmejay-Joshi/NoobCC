@@ -1,7 +1,6 @@
 # Week 0
 
 ## Guidelines:
-* Everyone will work independently managing a GitHub code base for the Week.
 * No Plagarisim getting inspiration and expanding upon prebuilt code is acceptable.
 * No Best Project for the Week.
 
