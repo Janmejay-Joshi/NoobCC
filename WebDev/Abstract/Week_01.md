@@ -10,7 +10,7 @@
 
 ## Objective:
 * Learning React
-* Learning BootStrap & react-bootstrap
+* Learning a CSS Framework ( BootStrap, react-bootstrap, Material ect... ) 
 
 ## Goal:
 * Creating an Application
