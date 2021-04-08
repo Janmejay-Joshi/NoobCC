@@ -1,23 +1,19 @@
-# Week 03
+# Week 04
 
 ## Guidelines:
 * No Plagarisim getting inspiration and expanding upon prebuilt code is acceptable.
 * Best Project will be Chosen by vote on basis of following :
 
     1. The Project itself
-    2. Unique and Well Structured UI 
-    3. Responsiveness and Animations
+    2. FullStack Stability 
+    3. The presence/absence of bugs
     4. README.md and presentation
 
 ## Objective:
-* Learning to use Figma for Prototyping
-* Learning CSS Styling
-* Learning CSS Animations
-* Learning SVG
+* Learning Redux 
+* Learning Axios 
+* Conecting Frontend to Backend 
 
 ## Goal:
-* Creating a Frontend
-
-    * without using CSS Libraries ( ie. bootstrap, Materialize, ect.. )
-    * Animated 
-    * Responsiveness
+* Merging Previosly Created React Application
+    * As A FullStack Sollution 
