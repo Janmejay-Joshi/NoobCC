@@ -9,6 +9,7 @@
    4. README.md and presentation
 
 ## Objective:
+* Learning Figma
 * Learning React
 * Learning a CSS Framework ( BootStrap, react-bootstrap, Material ect... ) 
 
