@@ -6,6 +6,7 @@
 
       *Code with harry : https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi
       *love            : https://www.youtube.com/watch?v=uj4fy4kpaOA (in 33min )
+      *Udacity notes   : https://classroom.udacity.com/courses ...
 
 ### Javascript
 
