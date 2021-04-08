@@ -12,5 +12,5 @@
 
 ### Figma
 
-      *pelziff    : https://www.youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq
-
+      *pelziff tutorial (in hindi)   : https://www.youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq
+      *figma website : https://www.figma.com/files/recent?fuid=957640090208543415
