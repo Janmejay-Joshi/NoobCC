@@ -1,3 +1,3 @@
-# Morzilla study material
+# Morzilla material
 
 https://developer.mozilla.org/
