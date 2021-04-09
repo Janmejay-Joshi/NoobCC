@@ -12,6 +12,7 @@
 
     * Programing with mosh : https://www.youtube.com/watch?v=W6NZfCO5SIk
     * FCC : https://www.youtube.com/watch?v=PkZNo7MFNFg
+    * thapa (for more details, 108 lectures )  : https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0
 
 ### HTML
 
