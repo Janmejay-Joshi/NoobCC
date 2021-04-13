@@ -3,7 +3,7 @@
 ## Team 1 [2]
 
 - Janmejay Joshi
-- Sourabh Mouray
+
 
 ## Team 2 [5]
 
@@ -39,7 +39,7 @@
 
 - Arjav Sethi
 - Aditya Paliwal
-- Chirayu Pancholi
+- Sourabh Mouray
 
 ## Team 7 [3]
 
@@ -60,12 +60,13 @@
 - Tanishq Lambhate
 - Ishuraj
 - Aaradhy
-- Sourabh Rathore
+- Aritro Ghosh
+- Chirayu Pancholi
 
 ## Team 10 [5]
 
 - Shruti
 - Dipesh
-- Aritro Ghosh
+-sourabh Rathore 
 - Prakhar Bhawsar
 - Ayush Kumar Dev
