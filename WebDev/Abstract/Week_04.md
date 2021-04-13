@@ -1,4 +1,4 @@
-# Week 05
+# Week 04
 
 ## Guidelines:
 * Everyone will work in a group managing a GitHub code base for the Project
