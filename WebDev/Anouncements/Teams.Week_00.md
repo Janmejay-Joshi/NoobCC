@@ -1,6 +1,6 @@
 # Team Distribution for Week_00
 
-## Team 1 [1]
+## Team 1 [2]
 
 - Janmejay Joshi
 - Sourabh Mouray
