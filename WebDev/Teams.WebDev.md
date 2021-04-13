@@ -48,7 +48,7 @@
 ## Team 9 [5]
 * Tanishq Lambhate
 * Ishuraj
-* Mayuri
+* Saurabh Maurya
 * Aaradhy
 * Sourabh Rathore
 
