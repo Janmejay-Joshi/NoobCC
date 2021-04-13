@@ -67,6 +67,6 @@
 
 - Shruti
 - Dipesh
--sourabh Rathore 
+- sourabh Rathore 
 - Prakhar Bhawsar
 - Ayush Kumar Dev
