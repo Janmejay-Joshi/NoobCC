@@ -3,7 +3,7 @@
 ## Team 1 [2]
 
 - Janmejay Joshi
-- Sourabh Mouray
+- 
 
 
 ## Team 2 [5]
@@ -28,6 +28,7 @@
 - Dhwani Gupta
 - Satyam Jha
 - Garvit Agarwal
+- Naman sharma 
 
 ## Team 5 [4]
 
@@ -60,6 +61,7 @@
 
 - Tanishq Lambhate
 - Ishuraj
+- Aritro
 - Aaradhy
 - sourabh Rathore 
 
@@ -67,6 +69,13 @@
 
 - Shruti
 - Dipesh
-- Aritro ghosh 
+- Sourabh Mouray
 - Prakhar Bhawsar
 - Ayush Kumar Dev
+
+## Team 11 [5]
+
+- Anushka Nigam 
+- Ankit Sharma 
+- Saman Cse 
+- 
