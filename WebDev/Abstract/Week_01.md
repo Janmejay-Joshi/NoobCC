@@ -11,6 +11,7 @@
 ## Objective:
 * Learning Figma
 * Learning React
+* Learning React-Router
 * Learning a CSS Framework ( BootStrap, react-bootstrap, Material ect... ) 
 
 ## Goal:
@@ -18,3 +19,4 @@
 
    * With Simple GUI
    * Responsiveness
+   * Try To Connect it with Next Week
