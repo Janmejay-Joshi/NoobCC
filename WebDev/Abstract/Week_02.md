@@ -13,12 +13,8 @@
 * Learning Express 
 * Learning Mongoose 
 * Learning MongoDb 
-* Learning React Router 
 
 ## Goal:
-* Creating an Application backend
-    * MongoDb Atlas
-    * CRUD Actions
-
-* Updating Previous Frontend Project
-    * Adding Multipage functionality
+Creating an Application backend
+  * MongoDb Atlas
+  * CRUD Actions
