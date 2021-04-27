@@ -6,13 +6,14 @@
  
    1. The Project itself
    3. UI Layout and design 
-   4. README.md and presentation
+   3. Page Routing and New Pages
+   4. README.md and Presentation
 
 ## Objective:
 * Learning Figma
 * Learning React
 * Learning React-Router
-* Learning a CSS Framework ( BootStrap, react-bootstrap, Material ect... ) 
+* Learning a CSS Framework ( Bootstrap, react-bootstrap, Material ect... ) 
 
 ## Goal:
 * Creating an Application
