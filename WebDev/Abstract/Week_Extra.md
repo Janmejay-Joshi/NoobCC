@@ -10,4 +10,7 @@
     * SASS
     * Apollo
     * Storybook
+    * MDX
+    * Typescript
+
 
